@@ -1,0 +1,16 @@
+{
+  "name": "noderest",
+  "description": "Demo REST API with Node",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "^3.21.2",
+    "mongoose": "^4.11.12"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
